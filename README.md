@@ -60,7 +60,7 @@
 ### 前端笔试
 
 * [HTTP笔试部分](docs/guide/httpWritten.md)
-* [书籍推荐](docs/guide/book.md)
+* [JavaScript笔试部分](docs/guide/jsWritten.md)
 
 ### 前端原理
 
